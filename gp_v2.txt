@@ -1,0 +1,1 @@
+{"jsonrpc":"2.0","id":43,"error":{"code":-32001,"message":"UCP discovery failed","data":{"code":"profile_malformed","content":"Unable to fetch agent profile: Invalid capability structure","continue_url":"https://grenade-row.myshopify.com/"}}}
